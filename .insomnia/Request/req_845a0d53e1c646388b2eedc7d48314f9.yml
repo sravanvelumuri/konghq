@@ -1,0 +1,21 @@
+_id: req_845a0d53e1c646388b2eedc7d48314f9
+type: Request
+parentId: wrk_4ff14bb58d08421aab1fe40cbaa1a208
+modified: 1646153931532
+created: 1646153840972
+url: "{{ base_url }}/uuid"
+name: Sample
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1646153840972
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
